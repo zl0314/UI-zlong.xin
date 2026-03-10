@@ -6405,7 +6405,7 @@ button.toast-close-button {
 
 .xe-widget.xe-conversations {
     position: relative;
-   background: radial-gradient(#00000033, transparent);
+   background: radial-gradient(rgba(0,0,0,0.02), transparent);
     margin-bottom: 0px;
     padding: 15px
 }
